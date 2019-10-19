@@ -34,7 +34,6 @@ def banner():
 	print (Y+" | "+G+"|__|        |__|  |__| /__/  \__\ "+R+"|\ | |_ |_ |_ |^\  "+Y+"     |")
 	print (Y+" | "+R+"Hash Cracker "+W+"0.3.0.2"+Y+"  By : Nicoleus Sitorus               |")
 	print (Y+" | "+B+"["+W+"="+B+"]"+W+" Author : Nicoleus"+Y+"                           |")
-        print (Y+" | "+B+"["+W+"="+B+"]"+W+"GirlFriend: Ijen M Sinaga "+Y+"                   |")
 	print (Y+" | "+B+"["+W+"="+B+"] "+W+"FACEBOOK   : Nicoleus Sitorus"+Y+"               |")
         print (Y+" | "+B+"["+W+"="+B+"] "+W+"TEAM   : SAMOSIR CYBER TEAM"+Y+"                 |")
 	print (Y+" |        "+B+"      ["+R+"+"+B+"] "+W+"python2 "+sys.argv[0]+" --info "+B+"["+R+"+"+B+"]"+Y+"      |")
