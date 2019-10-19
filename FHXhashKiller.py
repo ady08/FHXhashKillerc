@@ -1,13 +1,13 @@
 #! usr/bin/python2
 
-# Author     : Nicoleus Sitorus
-# FACEBOOK   : Nicoleus Sitorus
-# YOUTUBE    : ady sitorus ady
+# Author : ./Bazengers
+# Site   : www.fhxtutorial.blogspot.com
+
 
 #  		            PERHATIAN
 """
 		      SCRIPT INI MERUPAKAN SCRIPT PENGEMBANGAN
-      	  	 	  DARI SCRIPT Nicoleus Sitorus
+      	  	 	  DARI SCRIPT Hasher MILIK CiKu370
 """
 import sys
 import hashlib
@@ -32,9 +32,9 @@ def banner():
 	print (Y+" | "+G+"|   ____|   |   __   |   )    (  /_//_/\_,_/___/_//_/ "+Y+"    |")
 	print (Y+" | "+G+"|  |        |  |  |  |  /  /\  \  "+R+"|/ | |  |  |_ |p] "+Y+"      |")
 	print (Y+" | "+G+"|__|        |__|  |__| /__/  \__\ "+R+"|\ | |_ |_ |_ |^\  "+Y+"     |")
-	print (Y+" | "+R+"Hash Cracker "+W+"0.3.0.2"+Y+"  By : Nicoleus Sitorus               |")
-	print (Y+" | "+B+"["+W+"="+B+"]"+W+" Author : Nicoleus"+Y+"                           |")
-	print (Y+" | "+B+"["+W+"="+B+"] "+W+"FACEBOOK   : Nicoleus Sitorus"+Y+"               |")
+	print (Y+" | "+R+"Hash Cracker "+W+"1.3.0"+Y+"  By : FHX Tutorial                     |")
+	print (Y+" | "+B+"["+W+"="+B+"]"+W+" Author : ./Bazengers"+Y+"                                  |")
+	print (Y+" | "+B+"["+W+"="+B+"] "+W+"Site   : www.fhxtutorial.blogspot.com "+Y+"                |")
 	print (Y+" |        "+B+"      ["+R+"+"+B+"] "+W+"python2 "+sys.argv[0]+" --info "+B+"["+R+"+"+B+"]"+Y+"      |")
 	print (Y+" 0{=========================================================}0\n")
 
@@ -44,11 +44,11 @@ def info():
 	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Name     "+C+":"+W+" FHX Hash Killer"+Y+"                     |")
 	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Code     "+C+":"+W+" python"+Y+"                              |")
 	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Version  "+C+":"+W+" 1.3.0"+Y+"                               |")
-	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Author   "+C+":"+W+" Nicoleus Sitorus"+Y+"                    |")
-	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Email    "+C+":"+W+" adysitorusa7@gmail.com"+Y+"              |")
-	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Facebook "+C+":"+W+" Nicoleus Sitorus"+Y+"     |")
-	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Date     "+C+":"+W+" 10 - 19 - 2018"+C+"             |\   /|"+Y+"  |")
-	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Team     "+C+":"+W+" SAMOSIR CYBER TEAM"+C+"          /(\_/)\ "+Y+" |")
+	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Author   "+C+":"+W+" ./Bazengers"+Y+"                         |")
+	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Email    "+C+":"+W+" fajrihidayat088@gmail.com"+Y+"           |")
+	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Facebook "+C+":"+W+" https://facebook.com/cyberly.fa"+Y+"     |")
+	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Date     "+C+":"+W+" 11 - 04 - 2018"+C+"             |\   /|"+Y+"  |")
+	print (Y+" |"+B+" ["+R+"="+B+"] "+W+"Team     "+C+":"+W+" Rabbit Cyber Team"+C+"          /(\_/)\ "+Y+" |")
 	print (Y+" 0{==================================================}0\n")
 	print (B+" ["+R+"="+B+"] "+W+"python2 "+sys.argv[0]+" -u          to update wordlist "+B+"["+R+"="+B+"]")
 	print (B+"\n ["+R+"="+B+"] "+W+"list hash supported : "+Y+"["+W+"01"+Y+"] "+C+"md4")
